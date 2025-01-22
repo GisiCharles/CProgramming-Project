@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736699516 source:c:\users\gisin\onedrive\desktop\cprogramming-project\week1\week1task\main.c
+	<stdio.h>
+	<stdlib.h>
+
