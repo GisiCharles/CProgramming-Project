@@ -5,7 +5,7 @@ int main()
 {
     // Initialize the stock array with quantities for 5 products
     int stock[] = {10, 50, 30, 15, 25};
-    int totalStock = 0;
+    int totalStock ;
     int numProducts = sizeof(stock) / sizeof(stock[0]);
     float averageStock;
 
@@ -16,8 +16,8 @@ int main()
     }
 
     // Calculate the total stock
-    for (int i = 0; i < numProducts; i++) {
-        totalStock += stock[i];
+    for (in  t i = 0; i < numProducts; i++) {
+        totalStock += stock[i];//totalstock = totalstock + stock
     }
 
     // Calculate the average stock
