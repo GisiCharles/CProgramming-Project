@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738517608 source:c:\users\gisin\onedrive\desktop\cprogramming-project\week4\railway_reservation_system\main.c
+	<stdio.h>
+	<stdlib.h>
+
