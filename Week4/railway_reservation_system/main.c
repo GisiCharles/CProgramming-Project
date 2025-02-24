@@ -23,7 +23,6 @@ Train trains [] = {
     {105, "Huye",10,3000}
     };
 
-// Function to display available trains
 void viewAvailableTrains(){
     printf("Available Trains\n");
     for (int i = 0; i < 5; i++) {
